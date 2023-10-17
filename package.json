@@ -1,0 +1,22 @@
+{
+  "name": "axios-turbinado",
+  "version": "1.0.0",
+  "description": "Toolset for axios instances",
+  "main": "index.js",
+  "type": "module",
+  "keywords": [
+    "axios",
+    "adapters",
+    "cache",
+    "keycloak",
+    "logger"
+  ],
+  "author": "Michael Granados <contato@dgmike.com.br>",
+  "license": "MIT",
+  "peerDependencies": {
+    "axios": "^1.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
